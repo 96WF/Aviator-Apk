@@ -23,10 +23,10 @@ Processor: 1.2 GHz or faster
 Internet: Reliable Wi-Fi or mobile data connection
 #### Step-by-Step Installation Guide
 To install the Aviator app on Android, follow these steps:
-Download the APK file: Visit the official casino website or a trusted source and download the APK file.
-Allow installation from unknown sources: Open your phone's settings, go to the security section and enable the option to install apps from unknown sources.
-Install the APK: Find the downloaded APK file in the Downloads folder and tap on it to start the installation.
-Launch the app: Once installed, open the app from the home screen. Log in to your account or register to start playing.
+1. Download the APK file:Visit the official casino website or a trusted source and download the APK file.
+2. Allow installation from unknown sources: Open your phone's settings, go to the security section and enable the option to install apps from unknown sources.
+3. Install the APK: Find the downloaded APK file in the Downloads folder and tap on it to start the installation.
+4. Launch the app: Once installed, open the app from the home screen. Log in to your account or register to start playing.
 ### Download for iOS Devices
 iPhone and iPad users can download the Aviator app directly from the App Store or from official casino websites. Make sure your device is compatible before downloading.
 #### System Requirements for iOS
@@ -37,10 +37,10 @@ RAM: 1.2 GB or higher
 Internet: Stable Wi-Fi or mobile data connection
 #### Step-by-Step Installation Guide
 Here’s how to download and install the Aviator app on an iPhone or iPad:
-Go to the App Store: Open the App Store on your device and search for the Aviator game or the casino app that includes it.
-Download the app: Once you find the app, tap Download and wait for it to install.
-Open the app: After installation, open the app from your home screen.
-Start playing: Sign in or create an account, deposit funds if necessary, and enjoy the game!
+1. Go to the App Store: Open the App Store on your device and search for the Aviator game or the casino app that includes it.
+2. Download the app: Once you find the app, tap Download and wait for it to install.
+3. Open the app: After installation, open the app from your home screen.
+4. Start playing: Sign in or create an account, deposit funds if necessary, and enjoy the game!
 ### Download for Windows PC
 For those using a Windows PC, you can easily enjoy the Aviator game by downloading a compatible casino app or playing through a browser. Make sure your system meets the necessary requirements to avoid performance issues.
 #### System Requirements for Windows
@@ -52,11 +52,11 @@ Processor: 1.5 GHz or higher
 Internet: Reliable Wi-Fi or Ethernet connection
 #### Installation Instructions
 Follow these steps to install the Aviator app on your Windows PC:
-Visit the official website: Open your browser and go to the official casino or gaming site that offers the Aviator game.
-Find the download link: Navigate to the Applications or Downloads section, and choose the Windows version.
-Download the file: Click the download button and wait for the installer file to be saved on your computer.
-Install the app: Open the downloaded file and follow the on-screen instructions to install the app.
-Launch the app: Once installed, launch the app from your desktop, log in or create an account, and start playing.
+1. Visit the official website: Open your browser and go to the official casino or gaming site that offers the Aviator game.
+2. Find the download link: Navigate to the Applications or Downloads section, and choose the Windows version.
+3. Download the file: Click the download button and wait for the installer file to be saved on your computer.
+4. Install the app: Open the downloaded file and follow the on-screen instructions to install the app.
+5. Launch the app: Once installed, launch the app from your desktop, log in or create an account, and start playing.
 ### Download for MacOS
 Mac users can also download the Aviator game through casino websites that support MacOS. Follow the steps below to get started.
 #### System Requirements for Mac
@@ -68,10 +68,10 @@ Processor: 1.5 GHz or faster
 Internet: Stable Wi-Fi or Ethernet connection
 #### Installation Instructions
 Here’s how to install the Aviator app on MacOS:
-Go to the casino’s website: Visit the official website of the casino that supports Aviator.
-Download the Mac version: In the Applications section, select the MacOS option and click Download.
-Install the app: Once the file is downloaded, open it and follow the installation prompts.
-Launch the app: After installation is complete, open the app from your Applications folder. Sign in or register to start playing.
+1. Go to the casino’s website: Visit the official website of the casino that supports Aviator.
+2. Download the Mac version: In the Applications section, select the MacOS option and click Download.
+3. Install the app: Once the file is downloaded, open it and follow the installation prompts.
+4. Launch the app: After installation is complete, open the app from your Applications folder. Sign in or register to start playing.
 ## Getting Started with the Aviator Apk
 To start using the Aviator Apk, you’ll need to create an account. Once you open the app, find the 'Sign Up' or 'Register' button, which is typically displayed on the home screen. You’ll be asked to provide basic information such as your email address, username, and password. After entering these details, you may need to verify your email before proceeding. This step ensures that your account is secure. If you don’t receive the verification email immediately, it’s a good idea to check your spam or junk folder. Once your email is confirmed, you can fully access the app and explore its features. The whole process is quick and straightforward, so you’ll be ready to use the app in no time.
 ### Navigating the User Interface
